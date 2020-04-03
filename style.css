@@ -1,0 +1,48 @@
+.divtag1{
+    border: solid 1px;
+    width: 1200px;
+    height: auto;
+    padding: 30px;
+}
+.divtag2{
+    border: dotted 2px green;
+    text-align: left;
+}
+.divtag3{
+    border: dotted 2px green;
+    text-align: center;
+}
+.divtag4{
+    width: 900px;
+    height: 200px;
+    background: blue;
+    transform: perspective(8px) rotateX(-1deg);
+    margin-left: 150px;
+    margin-top: 50px;
+    border-bottom:solid 2px red;
+}
+.fongreen{
+    font-size: 1.5em;
+    color: green;
+}
+.fonblue{
+    color: blue;
+}
+.siz1{
+   width: 900px; 
+   height: 800px;
+   border: solid 1px;
+}
+.siz2{
+    border: solid 1px;
+}
+.siz3{
+    border: solid 1px;
+    width: 600px;
+    height: 200px;
+}
+.siz4{
+    border: solid 1px;
+    width: 300px;
+    height: 200px;
+}
